@@ -1,10 +1,6 @@
     # Stark PC Components Backend Service
 
 
-    
-                                                ##Лара прочти
-
-
 ## Запуск
 - pip install flask-migrate
 - pip install flask flask-sqlalchemy flask-cors python-dotenv
